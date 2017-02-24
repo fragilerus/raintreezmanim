@@ -1,0 +1,10 @@
+.table td{
+    text-align: center;
+}
+.table tfoot td{
+    text-align: right;
+}
+.table tbody td:first-child{
+    font-weight: bold;
+}
+/*# sourceMappingURL=styles.css.map*/
